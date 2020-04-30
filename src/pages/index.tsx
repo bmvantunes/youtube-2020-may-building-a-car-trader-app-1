@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>Hello Youtube</div>;
+  return <h1>Hello Youtube</h1>;
 }
